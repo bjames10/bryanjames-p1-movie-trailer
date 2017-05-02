@@ -25,7 +25,8 @@ h1 {
    width: 400px;
     border: 20px;
     background-color: crimson;
-    border-radius: 5px
+    border-radius: 5px;
+    cursor: pointer;
 }
 
 .char1,
